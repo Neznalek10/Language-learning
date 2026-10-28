@@ -1,4 +1,4 @@
-# Vocab
+# Language Learning
 
 A French trainer for Czech speakers that runs in the browser and installs on a phone as an app (PWA). It started as a vocabulary trainer and grew into a full A1 to A2 course with grammar, drills, writing and speaking practice. German has a small vocabulary set.
 
